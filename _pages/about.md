@@ -182,7 +182,7 @@ redirect_from:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <img src='images/laboratory_7.png' alt="D1机械臂" style="width: 200px;">
+      <img src='images/laboratory_8.png' alt="D1机械臂" style="width: 200px;">
     </div>
   </div>
 </div>
