@@ -1,0 +1,23 @@
+# main links links
+main:
+  - title: "Brief Introduction"
+    url: "#about-me"
+
+  - title: "Research Direction"
+    url: "#-gzsx"
+
+  - title: "Team Members"
+    url: "#-xl"
+
+  - title: "Research Progress"
+    url: "#-lwzl"
+
+  - title: "Ongoing Projects"
+    url: "#-abcd"
+
+  - title: "Experimental Facilities"
+    url: "#-ryjx"
+
+  - title: "Collaborators"
+    url: "#-xshy"
+
