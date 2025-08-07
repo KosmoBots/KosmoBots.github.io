@@ -1,23 +1,23 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "Brief Introduction"
     url: "#about-me"
 
-  - title: "研究方向"
+  - title: "Research Direction"
     url: "#-gzsx"
 
-  - title: "团队成员"
+  - title: "Team Members"
     url: "#-xl"
 
-  - title: "研究进展"
+  - title: "Research Progress"
     url: "#-lwzl"
 
-  - title: "在研项目"
+  - title: "Ongoing Projects"
     url: "#-abcd"
 
-  - title: "已有实验设备"
+  - title: "Experimental Facilities"
     url: "#-ryjx"
 
-  - title: "合作单位"
+  - title: "Collaborators"
     url: "#-xshy"
 

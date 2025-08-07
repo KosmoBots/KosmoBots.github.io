@@ -17,206 +17,188 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-本实验室致力于研究VLA大模型与具身智能技术，从而推动异构多智能体协同制造与柔性智能制造平台的创新研发。
+We are dedicated to developing VLA large models and embodied intelligence technologies to enable next-generation heterogeneous multi-agent collaboration and smart, flexible manufacturing systems.
 
 <span class='anchor' id='-gzsx'></span>
 
-# 🎓 研究方向
-- 异构机器人数据采集
-- 机械臂抓取
-- 多智能体类人动作迁移
-- 灵巧手感知控制
-- 多智能体集群控制
+# 🎓 Research Direction
+- Heterogeneous Robot Data Collection
+- Robotic Arm Grasping
+- Multi-Agent Human-Like Motion Transfer
+- Dexterous Hand Perception and Control
+- Multi-Agent Swarm Control
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 团队成员
-- yanjiu zhong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:zhongyanjiu@hfut.edu.cn
-- jian sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:1218679064@qq.com
-- yang wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:brownyangw@gmail.com
-- shuai chen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:2024111074@mail.hfut.edu.cn
-- linfeng li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:llf_ah@163.com
-- xianpeng li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:2411441061@qq.com
-- xincheng han&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:3301625791@qq.com
-- shirong luo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:2447816975@qq.com
-- jinyang zhao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:2023213574@mail.hfut.edu.cn
-- yuanjun yang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧email:2023211121@mail.hfut.edu.cn
-- chengzheng sun&nbsp;&nbsp;📧email:1449335205@qq.com
+# 🎓 Team Members
+- Yanjiu Zhong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:zhongyanjiu@hfut.edu.cn
+- Jian Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:1218679064@qq.com
+- Yang Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:brownyangw@gmail.com
+- Shuai Chen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2024111074@mail.hfut.edu.cn
+- Linfeng Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:llf_ah@163.com
+- Xianpeng Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2411441061@qq.com
+- Xincheng Han&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:3301625791@qq.com
+- Shirong Luo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2447816975@qq.com
+- Jinyang Zhao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023213574@mail.hfut.edu.cn
+- Yuanjun Yang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023211121@mail.hfut.edu.cn
+- Chengzheng Sun&nbsp;&nbsp;email:1449335205@qq.com
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 研究进展
+# 📝 Research Progress
 
-### 数据采集
+### Data Collection
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/data_collecttion.gif' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/data_collecttion.gif' alt="sym" style="width:300px; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	为了满足多形态、多场景、多任务的复杂数据采集需求，实验室开发了一套基于虚拟现实（VR）设备的异构机器人集成数据采集系统。该系统通过融合多种类型的机器人及传感器，实现了对不同环境和任务下的数据高效采集与管理。同时，系统支持基于采集数据的VLA（Vision-Language-Action）模型训练，提升了智能体在复杂任务中的感知、理解与决策能力。
+-	To address the challenges of multi-modal, multi-scenario, and multi-task data acquisition, our lab has developed a VR-based heterogeneous robot integrated data collection system. This system combines various types of robots and sensors to efficiently collect and manage data across diverse environments and tasks.
+- It also supports training of Vision-Language-Action (VLA) models using the collected data, enhancing the agents' perception, understanding, and decision-making capabilities in complex tasks.
+
+
 
 </div>
 </div>
 
-### 多模态感知驱动的机械臂智能决策
+### Multimodal Perception-Driven Robotic Arm Decision Making
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/motion_control.gif' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/motion_control.gif' alt="sym" style="width:300px; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	针对上层认知决策中的复杂需求，开发了一种集成视触觉多模态反馈的VLA模型，设计并实现了多模态细粒度语义对齐机制，有效融合视觉与触觉信息，提升模型对环境和任务细节的理解能力。该模型支持机械臂在多样化场景下的智能决策与精细动作控制，显著增强了机械臂执行复杂操作的精准性和适应性
+-	To address complex demands in high-level cognitive decision-making, we developed a Vision-Language-Action (VLA) model that integrates visual and tactile feedback. A fine-grained multimodal semantic alignment mechanism enables effective fusion of visual and haptic information, improving the model’s understanding of environmental and task-specific details. This empowers robotic arms with intelligent decision-making and precise control across diverse scenarios, significantly enhancing execution accuracy and adaptability in complex operations.
 
 </div>
 </div>
 
-### 强化学习驱动的类人动作迁移
+### Reinforcement Learning-Based Human-Like Motion Transfer
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/humanoid_migration.gif' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/humanoid_migration.gif' alt="sym" style="width:500px; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	针对底层运动控制中的复杂挑战，设计并实现了一种基于强化学习的类人动作Sim2Real快速迁移框架。该框架通过模拟环境与现实环境之间的有效桥接，提升了动作迁移的效率和鲁棒性。同时，提出了一种多智能体分层容差强化学习方法，实现了不同层级智能体之间的协同学习与容错机制，显著加快了动作学习速度，并提高了迁移过程中的稳定性和适应能力
+-	To tackle challenges in low-level motion control, we designed a reinforcement learning-based Sim2Real framework for fast and robust transfer of human-like motions. By bridging simulation and real-world environments, the framework improves motion transfer efficiency and robustness. A hierarchical multi-agent tolerance reinforcement learning method was also proposed, enabling collaborative learning and fault tolerance across different agent levels. This approach accelerates learning and enhances stability and adaptability during transfer.
+
 
 </div>
 </div>
 
-### 柔性皮肤驱动的灵巧手触觉融合
+### Flexible Skin-Enabled Tactile Sensing for Dexterous Hands
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/dexterous_hand.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/dexterous_hand.png' alt="sym" style="width:500px; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 针对灵巧手在感知与控制方面的挑战，结合柔性电子皮肤器件与灵巧手硬件，构建了一套高效的触觉感知系统。针对不同应用场景，设计并实现了触觉感知算法和自主重建算法，提升了灵巧手对触觉信息的准确捕捉与理解能力。通过将触觉数据与视觉信息融合，显著增强了灵巧手在复杂环境下的多模态感知能力和自主控制性能
+- To enhance perception and control in dexterous robotic hands, we developed an efficient tactile sensing system by integrating flexible electronic skin with dexterous hand hardware. For different application scenarios, custom tactile sensing and reconstruction algorithms were implemented, improving the accuracy of tactile perception and interpretation. By fusing tactile and visual information, the system significantly strengthens the multimodal perception and autonomous control capabilities of dexterous hands in complex environments.
 
 </div>
 </div>
 
-### 异构机器人集群智能导航
+### Intelligent Navigation for Heterogeneous Robot Swarms
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/path_planning.gif' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/path_planning.gif' alt="sym" style="width:500px; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- 针对工业生产中多样化场景下异构机器人集群的导航挑战，设计了一种基于强化学习的动态环境场景辨识与路径规划算法。该算法能够实时感知和识别复杂多变的工作环境，结合机器人个体差异，优化路径规划策略，实现异构多智能体的高效协同导航与集群控制
+- To address navigation challenges in industrial multi-scenario environments, we designed a reinforcement learning-based algorithm for dynamic scene recognition and path planning. The system enables real-time perception and understanding of complex and changing environments. By considering differences between individual robots, it optimizes path planning strategies to achieve efficient collaborative navigation and swarm control for heterogeneous multi-agent systems.
 
 </div>
 </div>
 
 <span class='anchor' id='-abcd'></span>
 
-# 🛠️ 在研项目
+# 🛠️ Ongoing Projects
 
-### 认知强化与体系演化驱动的空间具身智能机器人持续生长机制研究
+### Research on Lifelong Growth Mechanisms of Space Embodied Intelligence Robots Driven by Cognitive Reinforcement and System Evolution
 ---
 
-- 随着深空探测任务的推进，空间机器人智能化能力成为月球原位建造的关键支撑方向。本项目聚焦于复杂动态环境下空间具身机器人的智能演化机制，致力于构建融合多模态感知、认知强化与体系演化的持续生长型机器人系统。项目将构建高保真月面世界模型，支持感知—控制解耦的异构计算框架，提升机器人在微重力与月尘干扰环境中的适应能力；通过大模型与专家知识融合，强化机器人认知与灵巧操作能力；进一步设计结构—控制—知识协同演化机制，推动机器人自适应行为与知识体系的持续进化。最终，基于虚实一体的仿真验证平台，实现从感知、理解到动作执行的闭环优化，为未来月球建造任务提供可靠、高效的智能化解决方案。
+With the advancement of deep space exploration, intelligent capabilities of space robots have become critical for on-site lunar construction. This project focuses on intelligent evolution mechanisms of space embodied robots in complex dynamic environments.
+Key components include:
+- Building a high-fidelity lunar surface world model
+- Designing a decoupled perception-control heterogeneous computing framework for adaptability in microgravity and lunar dust environments
+- Integrating large models with expert knowledge to enhance cognitive and manipulation capabilities
+- Developing a co-evolution mechanism across structure, control, and knowledge
+Ultimately, a simulation platform combining virtual and physical systems will be used for closed-loop optimization from perception to execution, providing intelligent, efficient solutions for future lunar missions.
 
-
-
-### 基于多智能体协同的自组织无人车间机械臂调度系统
+### Multi-Agent Collaborative Scheduling System for Self-Organizing Robotic Workcells
 ---
 
-- 在智能制造日益复杂的背景下，传统集中式控制难以高效调度多类型机械臂，容易导致资源浪费与效率瓶颈。本项目提出一种面向“一产线多产品”生产模式的分布式多智能体协同框架，赋予系统自主感知、决策与优化能力。该框架中的上层智能体根据产线目标将任务划分为适配各机械臂的子目标，并下发至各异构智能体；各智能体基于数字孪生模型动态建模自身状态，结合环境感知完成子目标自适应执行。同时，项目引入视觉感知与工艺知识图谱，支持基于工件结构与工艺逻辑的任务拆解，并结合图神经网络实现多机械臂运动轨迹的碰撞预测与实时优化，确保调度的灵活性与安全性。
+Traditional centralized control systems face difficulties in efficiently scheduling diverse robotic arms in increasingly complex smart manufacturing settings. This project proposes a distributed multi-agent collaboration framework tailored for "multi-product on one line" production modes.
+Highlights include:
+- High-level agents decompose production goals into sub-tasks suitable for different robotic arms
+- Each heterogeneous agent uses a digital twin to model its own state and adaptively complete tasks
+- Integration of visual perception and process knowledge graphs to support task decomposition
+- Use of graph neural networks for real-time collision prediction and motion trajectory optimization
+The system ensures flexible, safe, and efficient robotic arm coordination in autonomous workshops.
 
-### 基于多模态大模型的电机智能装配辅助系统
+### Multimodal Large Model-Based Intelligent Motor Assembly Assistance System
+---
+In manufacturing and equipment maintenance, motor assembly is challenged by diverse parts, complex assembly relationships, and reliance on manual expertise.
+This project develops an intelligent assistant system combining image understanding, structural knowledge modeling, and natural language processing. It features:
+- Automatic identification of motor diagrams
+- Extraction of key assembly triplets
+- Construction of a structured knowledge graph
+- Generation and evaluation of executable assembly/disassembly sequences
+- Robotic execution of optimized procedures
+This system enhances automation, precision, and intelligence in motor assembly and maintenance tasks.
+
+### Collaborative Decision-Making for Heterogeneous Robots in Urban Warfare via Diffusion Models
 ---
 
-- 在工业制造与设备维修中，电机装配作业面临零部件类型繁多、装配关系复杂、对人工经验高度依赖等难题，严重制约了效率与智能化水平。本项目拟设计一套集成图像理解、结构知识建模与自然语言处理能力的电机装配辅助系统，可自动识别电机结构图，提取关键装配三元组，构建知识图谱，生成合理可执行的装配/拆卸序列，并对候选方案进行自动评分，最终将最优序列下发至机器人，实现对电机的精准自动装配与拆解
+Robotic teamwork is becoming vital in modern warfare scenarios. This project explores collaborative decision-making for heterogeneous robots in urban combat settings.
+The research integrates:
+- Dynamic scene understanding through diffusion models
+- Diffusion-based path planning in complex environments
+- Vision-Language-Action (VLA) models for autonomous decision-making
+- A scalable system architecture for state awareness and multi-function integration
+The goal is to develop effective robotic collaboration strategies for urban warfare applications.
 
-### 基于扩散模型的城市巷战异构机器人协同决策研究
+
+
+### VLA Model-Based Mobile Robotic Arm Grasping System for Aerospace Maintenance
 ---
 
-- 随着人工智能的发展，机器人协同作战已成为提升战场效能的核心方向。本项目聚焦于城市巷战场景下异构机器人的协同决策，旨在集成场景感知、路径规划与具身控制等多项技术。研究拟通过扩散模型实现动态场景感知，并且将基于扩散模型，解决动态环境下的路径规划问题；同时将采用视觉语言动作大模型，优化机器人自主决策能力；最后，设计可扩展的系统管控架构，实现状态感知与多功能集成。由此，将为未来战争提供可能的高效解决方案。
-
-### 基于VLA模型的可移动机械臂抓取系统及应用研究
----
-
-- 在复杂的航空维修环境中，低光照、空间狭窄等问题严重制约了人工接线的效率与安全。针对这一痛点，本项目聚焦于弱光复杂环境下的航空飞机线束装配问题，拟研发一套基于 VLA 模型的智能机械臂抓取系统，集成多模态感知、高精度运动控制与移动操作一体化技术。该系统可在较暗场景中实现高精度、低损伤的自动化线束连接，显著降低错误率与安全风险，为航空维护作业的智能化升级提供有力支撑。
+Aircraft maintenance often involves challenges such as low lighting and confined spaces, which hinder manual cable connection tasks. This project aims to develop a mobile robotic arm system based on VLA models for intelligent cable assembly in harsh aerospace environments.
+Core technologies include:
+- Multimodal perception
+- High-precision motion control
+- Integrated mobility and manipulation
+The system enables automated, accurate, and low-damage cable operations in dark, narrow conditions, reducing risks and improving efficiency in aerospace maintenance.
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🧪 已有实验设备
-### 🤖 机器人
+# 🧪  Experimental Facilities
 ---
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <div class='paper-box'>
     <div class='paper-box-image'>
-      <img src='images/laboratory_1.png' alt="宇树机器人" style="width: 200px;">
-    </div>
-  </div>
-</div>
-
-### 🐾 四足机器人
----
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_2.jpg' alt="宇树四足机器人" style="width: 200px;">
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_3.jpg' alt="宇树四足机器人" style="width: 200px;">
-    </div>
-  </div>
-</div>
-
-### 🏭 自动化产线
----
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_4.jpg' alt="自动化产线" style="width: 200px;">
-    </div>
-  </div>
-
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_5.jpg' alt="机械臂" style="width: 200px;">
-    </div>
-  </div>
-</div>
-
-### 🦾 机械臂
----
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_8.png' alt="D1机械臂" style="width: 200px;">
-    </div>
-  </div>
-</div>
-
-### 🖨️ 3D打印机
----
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-  <div class='paper-box'>
-    <div class='paper-box-image'>
-      <img src='images/laboratory_6.jpg' alt="3D打印机" style="width: 200px;">
+      <img src='images/equ.jpg' alt="实验室设备图" style="width: 1000px;">
     </div>
   </div>
 </div>
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 合作单位
+# 🏛️ Collaborators
 
-### 🏫 科研单位合作
+### 🏫 Academic Collaborations
 ---
 
-- 清华大学
-- 上海交通大学
-- 南京大学
-- 阿尔伯特大学
+- Tsinghua University
+- Shanghai Jiao Tong University
+- Nanjing University
+- University of Alberta
 
-### 🤝 产业合作伙伴
+### 🤝 Industry Partners
 ---
 
-- 中国空间技术研究院
-- 中国航空工业集团成飞
-- 中国航空发动机集团
-- BAOWU中国宝武
-- 中国兵器工业集团有限公司
-- 安徽三禾一信息科技有限公司
-- 奇瑞汽车股份有限公司
+- China Academy of Space Technology (CAST)
+- Chengdu Aircraft Industry Group (AVIC Chengfei)
+- Aero Engine Corporation of China (AECC)
+- China Baowu Steel Group Corporation
+- China North Industries Group Corporation Limited (Norinco Group)
+- Anhui Sanheyiyi Information Technology Co., Ltd.
+- Chery Automobile Co., Ltd.
+
+
 
