@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-We are dedicated to developing VLA large models and embodied intelligence technologies to enable next-generation heterogeneous multi-agent collaboration and smart, flexible manufacturing systems.
+Our laboratory focuses on cutting-edge research and development in embodied intelligent robotics and intelligent systems. We concentrate on realizing “task intent understanding, dynamic resource organization, and autonomous operation execution” to build intelligent robotic systems with advanced autonomous cognition and decision-making capabilities. Leveraging multimodal large models and embodied intelligence technologies, we promote the transformation of robots from single-agent execution to multi-agent collaboration and adaptive operation, creating a flexible, efficient, and intelligent robotic system architecture.
+The laboratory encompasses a diverse range of heterogeneous intelligent agents, including humanoid robots and quadruped robots, and conducts in-depth research on robot decision-making and control technologies. Based on this core technology platform, the laboratory actively expands into diverse application scenarios such as intelligent manufacturing and extraterrestrial exploration, driving deep integration and broad application of robotic technologies in product manufacturing, space missions, and beyond.
 
 <span class='anchor' id='-gzsx'></span>
 
 # 🎓 Research Direction
-- Heterogeneous Robot Data Collection
-- Robotic Arm Grasping
-- Multi-Agent Human-Like Motion Transfer
-- Dexterous Hand Perception and Control
-- Multi-Agent Swarm Control
+- Multi-Agent System
+- Embodied Intelligent System
+- Reinforcement Learning Control
+- Tactile Perception and Reconstruction
 
 <span class='anchor' id='-xl'></span>
 
@@ -43,6 +43,8 @@ We are dedicated to developing VLA large models and embodied intelligence techno
 - Jinyang Zhao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023213574@mail.hfut.edu.cn
 - Yuanjun Yang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023211121@mail.hfut.edu.cn
 - Chengzheng Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:1449335205@qq.com
+- Chunxiao Wu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2496851959@qq.com
+- Bo Ouyang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:lzsmkzx@163.com
 
 <span class='anchor' id='-lwzl'></span>
 
