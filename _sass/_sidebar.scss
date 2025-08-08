@@ -95,6 +95,16 @@
     max-width: none;
     min-width: 75px;
     border-radius: 50%;
+    width: 200px;     /* 新增：固定宽度 */
+    height: 200px;
+    object-fit: cover;
+    margin-left: -30px;
+
+     /* 添加阴影 */
+     box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+
+     /* 添加过渡效果 */
+     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     @include breakpoint($large) {
       padding: 5px;
