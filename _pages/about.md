@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Our laboratory focuses on cutting-edge research and development in embodied intelligent robotics and intelligent systems. We concentrate on realizing “task intent understanding, dynamic resource organization, and autonomous operation execution” to build intelligent robotic systems with advanced autonomous cognition and decision-making capabilities. Leveraging multimodal large models and embodied intelligence technologies, we promote the transformation of robots from single-agent execution to multi-agent collaboration and adaptive operation, creating a flexible, efficient, and intelligent robotic system architecture.
-The laboratory encompasses a diverse range of heterogeneous intelligent agents, including humanoid robots and quadruped robots, and conducts in-depth research on robot decision-making and control technologies. Based on this core technology platform, the laboratory actively expands into diverse application scenarios such as intelligent manufacturing and extraterrestrial exploration, driving deep integration and broad application of robotic technologies in product manufacturing, space missions, and beyond.
+<p style="text-indent: 2em; text-align: justify; word-break: break-word;">
+    Our laboratory focuses on cutting-edge research and development in embodied intelligent robotics and intelligent systems. We concentrate on realizing “task intent understanding, dynamic resource organization, and autonomous operation execution” to build intelligent robotic systems with advanced autonomous cognition and decision-making capabilities. Leveraging multimodal large models and embodied intelligence technologies, we promote the transformation of robots from single-agent execution to multi-agent collaboration and adaptive operation, creating a flexible, efficient, and intelligent robotic system architecture.
+</p>
+
+<p style="text-indent: 2em; text-align: justify; word-break: break-word;">
+    The laboratory encompasses a diverse range of heterogeneous intelligent agents, including humanoid robots and quadruped robots, and conducts in-depth research on robot decision-making and control technologies. Based on this core technology platform, the laboratory actively expands into diverse application scenarios such as intelligent manufacturing and extraterrestrial exploration, driving deep integration and broad application of robotic technologies in product manufacturing, space missions, and beyond.
+</p>
 
 <span class='anchor' id='-gzsx'></span>
 
@@ -31,20 +36,72 @@ The laboratory encompasses a diverse range of heterogeneous intelligent agents, 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Team Members
-- Qiang Zhang&nbsp;(Supervisor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:qiang_zhang@hfut.edu.cn
-- Yanjiu Zhong&nbsp;(Co-supervisor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:zhongyanjiu@hfut.edu.cn
-- Jian Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:1218679064@qq.com
-- Yang Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:brownyangw@gmail.com
-- Shuai Chen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2024111074@mail.hfut.edu.cn
-- Linfeng Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:llf_ah@163.com
-- Xianpeng Li&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2411441061@qq.com
-- Xincheng Han&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:3301625791@qq.com
-- Shirong Luo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2447816975@qq.com
-- Jinyang Zhao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023213574@mail.hfut.edu.cn
-- Yuanjun Yang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2023211121@mail.hfut.edu.cn
-- Chengzheng Sun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:1449335205@qq.com
-- Chunxiao Wu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:2496851959@qq.com
-- Bo Ouyang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email:lzsmkzx@163.com
+<ul class="team-list">
+  <li class="team-member">
+    <span class="name">Qiang Zhang (Supervisor)</span>
+    <span class="email">email: qiang_zhang@hfut.edu.cn</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Yanjiu Zhong (Co-supervisor)</span>
+    <span class="email">email: zhongyanjiu@hfut.edu.cn</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Jun Li</span>
+    <span class="email">email: lijun@3h1china.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Liang Peng</span>
+    <span class="email">email: pengliang@3h1china.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Jian Sun</span>
+    <span class="email">email: 1218679064@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Yang Wang</span>
+    <span class="email">email: brownyangw@gmail.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Shuai Chen</span>
+    <span class="email">email: 2024111074@mail.hfut.edu.cn</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Lingfeng Li</span>
+    <span class="email">email: llf_ah@163.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Xianpeng Li</span>
+    <span class="email">email: 2411441061@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Xincheng Han</span>
+    <span class="email">email: 3301625791@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Shirong Luo</span>
+    <span class="email">email: 2447816975@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Jinyang Zhao</span>
+    <span class="email">email: 2023213574@mail.hfut.edu.cn</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Yuanjun Yang</span>
+    <span class="email">email: 2023211121@mail.hfut.edu.cn</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Chengzheng Sun</span>
+    <span class="email">email: 1449335205@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Chunxiao Wu</span>
+    <span class="email">email: 2496851959@qq.com</span>
+  </li>
+  <li class="team-member">
+    <span class="name">Bo Ouyang</span>
+    <span class="email">email: lzsmkzx@163.com</span>
+  </li>
+</ul>
 
 <span class='anchor' id='-lwzl'></span>
 
