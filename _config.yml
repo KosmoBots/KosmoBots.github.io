@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Embodied Intelligence Laboratory, Hefei University of Technology"
-description              : "Industrial Embodied Intelligence and Complex System Control"
-repository               : "plerobotlab/plerobotlab.github.io"
+title                    : "KosmoBots: Embodied Robotics and Complex System Control"
+description              : EMIM - KosmoBots:“Embodied Robotics and Complex System Control"
+repository               : "KosmoBots/kosmobots.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "KosmosBot Lab"
+  name             : "KosmoBots"
   avatar           : "images/logo.jpg"
   bio              : "Hefei University of Technology"
   location         : "Hefei,Anhui"

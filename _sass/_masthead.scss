@@ -47,7 +47,7 @@
   @include breakpoint($medium) {
     display: block !important;
       }
-  img, a {
+  img, span {
     vertical-align:middle;
   }
  // display: none !important;
@@ -64,4 +64,12 @@
   }
 }
 
+.no-hover span {
+  cursor: default;  /* 鼠标是箭头而不是小手 */
+}
+
+.no-hover span:hover {
+  background: none !important;
+  color: inherit !important;
+}
 

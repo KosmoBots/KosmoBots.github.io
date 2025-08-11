@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <p style="text-indent: 2em; text-align: justify; word-break: break-word;">
-    Our laboratory focuses on cutting-edge research and development in embodied intelligent robotics and intelligent systems. We concentrate on realizing “task intent understanding, dynamic resource organization, and autonomous operation execution” to build intelligent robotic systems with advanced autonomous cognition and decision-making capabilities. Leveraging multimodal large models and embodied intelligence technologies, we promote the transformation of robots from single-agent execution to multi-agent collaboration and adaptive operation, creating a flexible, efficient, and intelligent robotic system architecture.
+    Our laboratory, as part of the Engineering Management and Intelligent Manufacturing (EMIM) Lab, focuses on cutting-edge research and development in embodied intelligent robotics and intelligent systems. We concentrate on realizing “task intent understanding, dynamic resource organization, and autonomous operation execution” to build intelligent robotic systems with advanced autonomous cognition and decision-making capabilities. Leveraging multimodal large models and embodied intelligence technologies, we promote the transformation of robots from single-agent execution to multi-agent collaboration and adaptive operation, creating a flexible, efficient, and intelligent robotic system architecture.
 </p>
 
 <p style="text-indent: 2em; text-align: justify; word-break: break-word;">
-    The laboratory encompasses a diverse range of heterogeneous intelligent agents, including humanoid robots and quadruped robots, and conducts in-depth research on robot decision-making and control technologies. Based on this core technology platform, the laboratory actively expands into diverse application scenarios such as intelligent manufacturing and extraterrestrial exploration, driving deep integration and broad application of robotic technologies in product manufacturing, space missions, and beyond.
+    Within EMIM, we work with a diverse range of heterogeneous intelligent agents, including humanoid robots and quadruped robots, and conduct in-depth research on robot decision-making and control technologies. Building on this core technology platform, we actively explore diverse application scenarios such as intelligent manufacturing and extraterrestrial exploration, driving deep integration and broad application of robotic technologies in product manufacturing, space missions, and beyond.
 </p>
 
 <span class='anchor' id='-gzsx'></span>
